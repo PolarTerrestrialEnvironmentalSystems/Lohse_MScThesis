@@ -1,14 +1,11 @@
 # Code of Master Thesis _"Migration Strategies and their Consequences on the Spread of Avian Influenza Viruses"_ by **Marlena Lohse** (Uni Potsdam)
 
-This repository contains code for the different ....
-
-1) TrackingAnalysis
-
-Tracking data that is loaded from folder xy is not part of the repository.
-
-2) 
-
 
 ## Thesis summary
 
-bla bla bla
+The East Asian-Australasian Flyway (EAAF) represents one of the most significant bird migration routes globally and hosts a diverse group of shorebirds, also known as waders. These birds play a vital role in linking ecosystems by undertaking annual migrations from their wintering grounds in Australia or New Zealand to their breeding grounds in the (sub-)Arctic regions of Siberia and Alaska. The EAAF faces a significant threat from habitat destruction, especially in the Yellow Sea, which is a crucial staging area for migratory shorebirds. 
+Physiological constraints and environmental factors influence the migratory strategies of waders, including hops, skips, and jumps. This flyway is not only significant for migratory birds but also serves as a source of Avian Influenza strains, such as the highly pathogenic H5N1. Investigating the impact of migratory strategies on the spread of Avian Influenza viruses in the EAAF is crucial, given the rapid environmental changes in this flyway and the rapid emergence of new variants of HPAI. 
+
+To enhance our understanding of pathogen spread dynamics, focusing on Highly Pathogenic Avian Influenza (HPAI) and the migration strategies of shorebird species along the EAAF, I combined analysis of tracking data from six shorebird species with a state-dependent optimality model to simulate optimal migration routes of 23 shorebird species for two timespans, the 1960s and the 2010s. Subsequently I developed an individual-based model to simulate the infection and the subsequent trajectories of shorebirds infected on the most important stopover site in the Yellow Sea, aiming to investigate the body size specific dynamics of infection spread.
+
+I found that with bigger body size birds fly longer distances and make fewer stops on their route from wintering to breeding sites. With this relationship I calculated optimal migration routes for all 23 shorebirds for the 1960s and the 2010s. By analyzing this using degree centrality values, I demonstrated a shift in the connectivity of stopover sites over the last 50 years. Results of the individual-based model suggest that bigger species carry infections with HPAI over larger distances than smaller species. Despite its limitations, this work lays the foundation for further investigations into migration strategies and their implications for pathogen spread. I show that this is an important field of study to look at for both the sake of wild birds and other animals as well as the bigger picture of human health.
