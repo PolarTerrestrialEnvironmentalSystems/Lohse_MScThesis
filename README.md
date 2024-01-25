@@ -7,3 +7,8 @@ This repository contains code for the different ....
 Tracking data that is loaded from folder xy is not part of the repository.
 
 2) 
+
+
+## Thesis summary
+
+bla bla bla
