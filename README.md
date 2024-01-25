@@ -1,4 +1,4 @@
-# Code of Master Thesis _"Migration Strategies and their Consequences on the Spread of Avian Influenza Viruses"_ by **Marlena Lohse** (Uni Potsdam)
+# Code for Master Thesis _"Migration Strategies in Shorebirds and their Consequences on the Spread of Avian Influenza Viruses"_ by **Marlena Lohse** (Uni Potsdam)
 
 
 ## Thesis summary
